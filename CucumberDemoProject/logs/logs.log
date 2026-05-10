@@ -1,0 +1,52 @@
+[INFO ] 2026-05-07 14:30:21.536 [main] Hooks - Scenario Started
+[INFO ] 2026-05-07 14:30:27.174 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 14:31:08.771 [main] Hooks - Scenario Started
+[ERROR] 2026-05-07 14:31:30.402 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 14:33:16.850 [main] Hooks - Scenario Started
+[ERROR] 2026-05-07 14:33:23.783 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 14:37:38.226 [main] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 14:37:47.883 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 15:05:04.297 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 15:05:09.558 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 15:08:31.796 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 15:08:36.970 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 15:13:29.702 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 15:13:34.515 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 15:20:14.332 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 15:20:20.080 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 15:51:32.589 [main] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 15:51:49.599 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 15:59:47.692 [TestNG-test-Test-1] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 16:00:09.378 [TestNG-test-Test-1] Hooks - Scenario Failed
+[INFO ] 2026-05-07 16:14:06.971 [main] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 16:14:13.565 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 16:14:15.324 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 16:14:17.817 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 16:15:10.363 [main] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 16:15:16.486 [main] Hooks - Scenario Failed
+[INFO ] 2026-05-07 16:15:18.180 [main] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 16:15:20.581 [main] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 16:23:11.949 [TestNG-test-Test-1] Hooks - Scenario Started: 
+[ERROR] 2026-05-07 16:23:18.812 [TestNG-test-Test-1] Hooks - Scenario Failed
+[INFO ] 2026-05-07 16:23:20.850 [TestNG-test-Test-1] Hooks - Scenario Started: 
+[INFO ] 2026-05-07 16:23:26.111 [TestNG-test-Test-1] Hooks - Scenario passed: 
+[INFO ] 2026-05-07 16:25:59.764 [TestNG-test-Test-1] Hooks - Scenario Started: Login with valid credentials
+[ERROR] 2026-05-07 16:26:07.039 [TestNG-test-Test-1] Hooks - Scenario Failed: Login with valid credentials
+[INFO ] 2026-05-07 16:26:09.145 [TestNG-test-Test-1] Hooks - Scenario Started: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:26:13.953 [TestNG-test-Test-1] Hooks - Scenario Passed: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:27:33.016 [TestNG-PoolService-2] Hooks - Scenario Started: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:27:33.016 [TestNG-PoolService-1] Hooks - Scenario Started: Login with valid credentials
+[INFO ] 2026-05-07 16:27:38.573 [TestNG-PoolService-2] Hooks - Scenario Passed: Login with Invalid Credentials
+[ERROR] 2026-05-07 16:27:39.800 [TestNG-PoolService-1] Hooks - Scenario Failed: Login with valid credentials
+[INFO ] 2026-05-07 16:32:23.368 [TestNG-PoolService-2] Hooks - Scenario Started: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:32:23.375 [TestNG-PoolService-1] Hooks - Scenario Started: Login with valid credentials
+[INFO ] 2026-05-07 16:32:29.322 [TestNG-PoolService-2] Hooks - Scenario Passed: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:32:29.784 [TestNG-PoolService-1] Hooks - Scenario Passed: Login with valid credentials
+[INFO ] 2026-05-07 16:33:54.115 [TestNG-PoolService-1] Hooks - Scenario Started: Login with valid credentials
+[INFO ] 2026-05-07 16:33:54.112 [TestNG-PoolService-2] Hooks - Scenario Started: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:33:59.336 [TestNG-PoolService-2] Hooks - Scenario Passed: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:33:59.547 [TestNG-PoolService-1] Hooks - Scenario Passed: Login with valid credentials
+[INFO ] 2026-05-07 16:34:27.821 [TestNG-PoolService-1] Hooks - Scenario Started: Login with valid credentials
+[INFO ] 2026-05-07 16:34:27.821 [TestNG-PoolService-2] Hooks - Scenario Started: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:34:34.172 [TestNG-PoolService-2] Hooks - Scenario Passed: Login with Invalid Credentials
+[INFO ] 2026-05-07 16:34:34.271 [TestNG-PoolService-1] Hooks - Scenario Passed: Login with valid credentials
