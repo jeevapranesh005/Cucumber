@@ -50,3 +50,7 @@
 [INFO ] 2026-05-07 16:34:27.821 [TestNG-PoolService-2] Hooks - Scenario Started: Login with Invalid Credentials
 [INFO ] 2026-05-07 16:34:34.172 [TestNG-PoolService-2] Hooks - Scenario Passed: Login with Invalid Credentials
 [INFO ] 2026-05-07 16:34:34.271 [TestNG-PoolService-1] Hooks - Scenario Passed: Login with valid credentials
+[INFO ] 2026-05-11 10:29:24.062 [main] Hooks - Scenario Started: Login with valid credentials
+[ERROR] 2026-05-11 10:29:35.100 [main] Hooks - Scenario Failed: Login with valid credentials
+[INFO ] 2026-05-11 10:29:36.197 [main] Hooks - Scenario Started: Login with Invalid Credentials
+[ERROR] 2026-05-11 10:29:47.015 [main] Hooks - Scenario Failed: Login with Invalid Credentials
