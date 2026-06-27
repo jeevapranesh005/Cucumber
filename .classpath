@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cucumber/src/test/java"/>
+	<classpathentry kind="src" path="CucumberDemoProject/src/test/java"/>
+	<classpathentry kind="src" path="TutorialNinjaDemo/src/test/java"/>
+	<classpathentry kind="src" path="uploadFile_selenium/src/main/java"/>
+	<classpathentry kind="output" path="DemoBlazeCucumberProject/target/test-classes"/>
+</classpath>
